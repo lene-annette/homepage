@@ -1,0 +1,20 @@
+{
+    "da": {
+        "menu": {
+            "start": "Forside",
+            "education": "Uddannelse",
+            "experience": "Erhvervserfaring",
+            "hobbies": "Fritid",
+            "contact": "Kontakt"
+        }
+    },
+    "en": {
+        "menu": {
+            "Start": "Frontpage",
+            "education": "Education",
+            "experience": "Work Experience",
+            "hobbies": "Hobbies",
+            "contact": "Contact"
+        }
+    }
+}

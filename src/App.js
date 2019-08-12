@@ -1,11 +1,10 @@
 import React from 'react';
+import Mainpage from './Components/Mainpage'
 import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <h1>Hello World, this is Lene calling</h1>
-    </div>
+    <Mainpage />
   );
 }
 
